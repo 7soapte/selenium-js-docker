@@ -19,8 +19,6 @@ Once everything is set, to run the test, write the following in the terminal:
 
 `node index.js`
 
-Make sure you're in the "selenium-js-docker" folder where the index.js file is.
-
 **Good job!**
 
 ======================================
