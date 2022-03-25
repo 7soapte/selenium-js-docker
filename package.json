@@ -1,0 +1,22 @@
+{
+  "name": "selenium-js-docker",
+  "version": "1.0.0",
+  "description": "Student test for js selenium with docker browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7soapte/selenium-js-docker.git"
+  },
+  "author": "Andrei Dumitrache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7soapte/selenium-js-docker/issues"
+  },
+  "homepage": "https://github.com/7soapte/selenium-js-docker#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
+  }
+}
