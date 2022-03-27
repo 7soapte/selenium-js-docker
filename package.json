@@ -4,7 +4,9 @@
   "description": "Student test for js selenium with docker browser",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "chrome": "node chrome.js",
+    "safari": "node safari.js"
   },
   "repository": {
     "type": "git",
