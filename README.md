@@ -31,5 +31,5 @@ Once everything is set, to run the test, write the following in the terminal:
 
 <hr>
 
-##Contributors
+## Contributors
 For FAQ or bugs, feel free to leave me a message or fork a fix.
