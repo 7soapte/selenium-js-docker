@@ -2,8 +2,6 @@
 
 This is a simple starter project in which we'll have selenium open Youtube, type in and start a search.
 
-<hr>
-
 ## Instalation
 
 First, we need to run `npm i` in the terminal.
@@ -28,8 +26,6 @@ Once everything is set, to run the test, write the following in the terminal:
 `npm run safari.js` (this will run locally on a mac)
 
 **Good job!**
-
-<hr>
 
 ## Contributors
 For FAQ or bugs, feel free to leave me a message or fork a fix.
